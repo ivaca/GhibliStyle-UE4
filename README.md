@@ -1,3 +1,3 @@
-# MyProject2
+# Ghibli style project
 
-Developed with Unreal Engine 4
+Unreal Engine 4 + Zbrush + Maya
